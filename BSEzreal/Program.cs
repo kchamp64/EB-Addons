@@ -115,19 +115,19 @@ namespace BSEzreal
 
         private static void Game_OnTick(EventArgs args)
         {
-            if (Orbwalker.ActiveModesFlags.Equals(Orbwalker.ActiveModes.Combo))
+            if (Orbwalker.ActiveModesFlags.HasFlag(Orbwalker.ActiveModes.Combo))
             {
                 Combo();
             }
-            if (Orbwalker.ActiveModesFlags.Equals(Orbwalker.ActiveModes.None))
+            if (Orbwalker.ActiveModesFlags.HasFlag(Orbwalker.ActiveModes.None))
             {
                 AutoHarass();
             }
-            if (Orbwalker.ActiveModesFlags.Equals(Orbwalker.ActiveModes.Harass))
+            if (Orbwalker.ActiveModesFlags.HasFlag(Orbwalker.ActiveModes.Harass))
             {
                 Harass();
             }
-            if (Orbwalker.ActiveModesFlags.Equals(Orbwalker.ActiveModes.LaneClear))
+            if (Orbwalker.ActiveModesFlags.HasFlag(Orbwalker.ActiveModes.LaneClear) || Orbwalker.ActiveModesFlags.HasFlag(Orbwalker.ActiveModes.JungleClear))
             {
                 LastHit();
                 AutoHarass();

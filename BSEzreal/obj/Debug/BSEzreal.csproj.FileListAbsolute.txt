@@ -1,3 +1,6 @@
 C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\bin\Debug\KBSEzreal.exe.config
 C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\obj\Debug\KBSEzreal.exe
 C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\obj\Debug\KBSEzreal.pdb
+C:\Users\KG\Documents\GitHub\EB-Addons\BSEzreal\bin\Debug\KBSEzreal.exe.config
+C:\Users\KG\Documents\GitHub\EB-Addons\BSEzreal\obj\Debug\KBSEzreal.exe
+C:\Users\KG\Documents\GitHub\EB-Addons\BSEzreal\obj\Debug\KBSEzreal.pdb
