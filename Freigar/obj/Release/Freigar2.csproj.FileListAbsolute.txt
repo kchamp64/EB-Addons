@@ -1,0 +1,12 @@
+C:\Users\KG\Documents\Visual Studio 2015\Projects\Freigar2\Freigar2\bin\Release\Freigar2.exe.config
+C:\Users\KG\Documents\Visual Studio 2015\Projects\Freigar2\Freigar2\bin\Release\Freigar2.exe
+C:\Users\KG\Documents\Visual Studio 2015\Projects\Freigar2\Freigar2\bin\Release\Freigar2.pdb
+C:\Users\KG\Documents\Visual Studio 2015\Projects\Freigar2\Freigar2\bin\Release\EloBuddy.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\Freigar2\Freigar2\bin\Release\EloBuddy.SDK.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\Freigar2\Freigar2\bin\Release\SharpDX.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\Freigar2\Freigar2\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\Freigar2\Freigar2\bin\Release\Newtonsoft.Json.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\Freigar2\Freigar2\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\Freigar2\Freigar2\obj\Release\Freigar2.csprojResolveAssemblyReference.cache
+C:\Users\KG\Documents\Visual Studio 2015\Projects\Freigar2\Freigar2\obj\Release\Freigar2.exe
+C:\Users\KG\Documents\Visual Studio 2015\Projects\Freigar2\Freigar2\obj\Release\Freigar2.pdb
