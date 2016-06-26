@@ -1,0 +1,24 @@
+C:\Users\KG\Documents\Visual Studio 2015\Projects\BSEzreal\BSEzreal\bin\Release\KBSEzreal.exe.config
+C:\Users\KG\Documents\Visual Studio 2015\Projects\BSEzreal\BSEzreal\bin\Release\KBSEzreal.exe
+C:\Users\KG\Documents\Visual Studio 2015\Projects\BSEzreal\BSEzreal\bin\Release\KBSEzreal.pdb
+C:\Users\KG\Documents\Visual Studio 2015\Projects\BSEzreal\BSEzreal\bin\Release\EloBuddy.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\BSEzreal\BSEzreal\bin\Release\EloBuddy.SDK.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\BSEzreal\BSEzreal\bin\Release\SharpDX.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\BSEzreal\BSEzreal\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\BSEzreal\BSEzreal\bin\Release\Newtonsoft.Json.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\BSEzreal\BSEzreal\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\BSEzreal\BSEzreal\obj\Release\BSEzreal.csprojResolveAssemblyReference.cache
+C:\Users\KG\Documents\Visual Studio 2015\Projects\BSEzreal\BSEzreal\obj\Release\KBSEzreal.exe
+C:\Users\KG\Documents\Visual Studio 2015\Projects\BSEzreal\BSEzreal\obj\Release\KBSEzreal.pdb
+C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\bin\Release\KBSEzreal.exe.config
+C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\bin\Release\KBSEzreal.exe
+C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\bin\Release\KBSEzreal.pdb
+C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\bin\Release\EloBuddy.dll
+C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\bin\Release\EloBuddy.SDK.dll
+C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\bin\Release\SharpDX.dll
+C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\bin\Release\Newtonsoft.Json.dll
+C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\obj\Release\BSEzreal.csprojResolveAssemblyReference.cache
+C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\obj\Release\KBSEzreal.exe
+C:\Users\KG\Documents\GitHub\EloBuddyBik\BSEzreal\obj\Release\KBSEzreal.pdb

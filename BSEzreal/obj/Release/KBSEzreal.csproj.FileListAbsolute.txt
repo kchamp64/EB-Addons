@@ -1,0 +1,24 @@
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal\KBSEzreal\bin\Release\KBSEzreal.exe.config
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal\KBSEzreal\bin\Release\KBSEzreal.exe
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal\KBSEzreal\bin\Release\KBSEzreal.pdb
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal\KBSEzreal\bin\Release\EloBuddy.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal\KBSEzreal\bin\Release\EloBuddy.SDK.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal\KBSEzreal\bin\Release\SharpDX.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal\KBSEzreal\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal\KBSEzreal\bin\Release\Newtonsoft.Json.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal\KBSEzreal\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal\KBSEzreal\obj\Release\KBSEzreal.exe
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal\KBSEzreal\obj\Release\KBSEzreal.pdb
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal\KBSEzreal\obj\Release\KBSEzreal.csprojResolveAssemblyReference.cache
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal Backup\KBSEzreal\bin\Release\KBSEzreal.exe.config
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal Backup\KBSEzreal\bin\Release\KBSEzreal.exe
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal Backup\KBSEzreal\bin\Release\KBSEzreal.pdb
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal Backup\KBSEzreal\bin\Release\EloBuddy.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal Backup\KBSEzreal\bin\Release\EloBuddy.SDK.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal Backup\KBSEzreal\bin\Release\SharpDX.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal Backup\KBSEzreal\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal Backup\KBSEzreal\bin\Release\Newtonsoft.Json.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal Backup\KBSEzreal\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal Backup\KBSEzreal\obj\Release\KBSEzreal.csprojResolveAssemblyReference.cache
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal Backup\KBSEzreal\obj\Release\KBSEzreal.exe
+C:\Users\KG\Documents\Visual Studio 2015\Projects\KBSEzreal Backup\KBSEzreal\obj\Release\KBSEzreal.pdb
