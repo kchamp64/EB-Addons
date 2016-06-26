@@ -59,7 +59,7 @@ namespace Freigar
             ComboMenu.Add("CQHitChance", new Slider("Q Hitchance for Combo: ", 3, 1, 5));
             ComboMenu.AddLabel("1 = Low 2 = Average 3 = Medium 4 = High 5 = Immobile");
             ComboMenu.Add("W", new CheckBox("Use W"));
-            ComboMenu.Add("CWMobile", new CheckBox("Use W even if target is not stunned"));
+            ComboMenu.Add("CWMobile", new CheckBox("Use W even if target is not stunned", false));
             ComboMenu.Add("ManaCW", new Slider("Block W at mana%: ", 5));
             ComboMenu.Add("E", new CheckBox("Use E"));
             ComboMenu.Add("CEHitChance", new Slider("E Hitchance for Combo: ", 4, 1, 5));
@@ -79,10 +79,10 @@ namespace Freigar
             HarassMenu.Add("HQMobile", new CheckBox("Use Q even if target is not stunned"));
             HarassMenu.Add("HQHitChance", new Slider("Q Hitchance for Harass: ", 4, 1, 5));
             HarassMenu.AddLabel("1 = Low 2 = Average 3 = Medium 4 = High 5 = Immobile");
-            HarassMenu.Add("HW", new CheckBox("Use W"));
-            HarassMenu.Add("HWMobile", new CheckBox("Use W even if target is not stunned"));
+            HarassMenu.Add("HW", new CheckBox("Use W", false));
+            HarassMenu.Add("HWMobile", new CheckBox("Use W even if target is not stunned", false));
             HarassMenu.Add("ManaHW", new Slider("Block W at mana%: ", 5));
-            HarassMenu.Add("HE", new CheckBox("Use E"));
+            HarassMenu.Add("HE", new CheckBox("Use E", false));
             HarassMenu.Add("HEHitChance", new Slider("E Hitchance for Harass: ", 4, 1, 5));
             HarassMenu.AddLabel("1 = Low 2 = Average 3 = Medium 4 = High 5 = Immobile");
             HarassMenu.Add("HEMove", new Slider("E in Harass Effective Range:", 375, 350, 425));
@@ -93,18 +93,18 @@ namespace Freigar
 
             LastHitMenu.Add("LHQ", new CheckBox("Use Q to Last Hit"));
             LastHitMenu.Add("ManaLHQ", new Slider("Mana % for Last Hit Q: ", 30, 0, 100));
-            LastHitMenu.Add("DoubleQ", new CheckBox("Only if Q kills two:"));
+            LastHitMenu.Add("DoubleQ", new CheckBox("Only if Q kills two:", false));
 
             LaneClearMenu = FreigMenu.AddSubMenu("Lane Clear");
 
-            LaneClearMenu.Add("LCQ", new CheckBox("Use Q to Clear"));
-            LaneClearMenu.Add("LCW", new CheckBox("Use W to Clear"));
+            LaneClearMenu.Add("LCQ", new CheckBox("Use Q to Clear", false));
+            LaneClearMenu.Add("LCW", new CheckBox("Use W to Clear", false));
             LaneClearMenu.Add("LCNumW", new Slider("Only if W hits at least X enemy minions:", 4, 1, 5));
 
             DrawMenu = FreigMenu.AddSubMenu("Draws");
 
             DrawMenu.Add("usedraw", new CheckBox("Enable Drawings", true));
-            DrawMenu.Add("IfReady", new CheckBox("Draw Only If Spell is Ready", true));
+            DrawMenu.Add("IfReady", new CheckBox("Draw Only If Spell is Ready", false));
             DrawMenu.AddSeparator(1);
             DrawMenu.Add("drawQ", new CheckBox(" Draw Q", true));
             DrawMenu.Add("drawW", new CheckBox(" Draw W", false));
@@ -743,8 +743,6 @@ namespace Freigar
                 {
 
                 }
-                DamageIndicator.HealthbarEnabled = DrawMenu["drawBar"].Cast<CheckBox>().CurrentValue;
-                DamageIndicator.PercentEnabled = DrawMenu["drawHP"].Cast<CheckBox>().CurrentValue;
             }
             else
             {
@@ -766,7 +764,8 @@ namespace Freigar
                     {
                         Circle.Draw(Color.Blue, R.Range, Player.Instance.Position);
                     }
-
+                    DamageIndicator.HealthbarEnabled = DrawMenu["drawBar"].Cast<CheckBox>().CurrentValue;
+                    DamageIndicator.PercentEnabled = DrawMenu["drawHP"].Cast<CheckBox>().CurrentValue;
                 }
                 catch (Exception)
                 {

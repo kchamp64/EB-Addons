@@ -43,7 +43,7 @@ namespace Freigar
         {
             if (HealthbarEnabled || PercentEnabled)
             {
-                foreach (var unit in EntityManager.Heroes.Enemies.Where(u => u.IsValidTarget(1500.0f)))
+                foreach (var unit in EntityManager.Heroes.Enemies.Where(u => u.IsValidTarget(1500.0f) && u.IsHPBarRendered))
                 {
                     // Get damage to unit
                     var damage = DamageToUnit(unit);

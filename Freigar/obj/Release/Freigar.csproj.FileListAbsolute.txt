@@ -1,0 +1,12 @@
+C:\Users\KG\Documents\GitHub\EB-Addons\Freigar\bin\Release\Freigar2.exe.config
+C:\Users\KG\Documents\GitHub\EB-Addons\Freigar\bin\Release\Freigar2.exe
+C:\Users\KG\Documents\GitHub\EB-Addons\Freigar\bin\Release\Freigar2.pdb
+C:\Users\KG\Documents\GitHub\EB-Addons\Freigar\bin\Release\EloBuddy.dll
+C:\Users\KG\Documents\GitHub\EB-Addons\Freigar\bin\Release\EloBuddy.SDK.dll
+C:\Users\KG\Documents\GitHub\EB-Addons\Freigar\bin\Release\SharpDX.dll
+C:\Users\KG\Documents\GitHub\EB-Addons\Freigar\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\KG\Documents\GitHub\EB-Addons\Freigar\bin\Release\Newtonsoft.Json.dll
+C:\Users\KG\Documents\GitHub\EB-Addons\Freigar\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\KG\Documents\GitHub\EB-Addons\Freigar\obj\Release\Freigar.csprojResolveAssemblyReference.cache
+C:\Users\KG\Documents\GitHub\EB-Addons\Freigar\obj\Release\Freigar2.exe
+C:\Users\KG\Documents\GitHub\EB-Addons\Freigar\obj\Release\Freigar2.pdb
